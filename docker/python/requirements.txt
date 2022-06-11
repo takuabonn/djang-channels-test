@@ -1,0 +1,11 @@
+Django==3.2.7
+uwsgi==2.0.19
+mysqlclient
+autopep8
+django-cors-headers==3.2.1
+djangorestframework==3.11.0
+djangorestframework-jwt
+factory_boy
+channels
+channels_redis
+daphne
