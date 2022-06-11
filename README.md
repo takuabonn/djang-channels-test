@@ -1,4 +1,4 @@
-# djang-channels-test
+# django-channels-test
 
 ## 目的
 - 実務でサーバーからの変更をクライアントに伝える必要が出たタスクがあり
